@@ -1,7 +1,7 @@
 # theobibs
 A collection of BibTeX files useful for pastors and theologians.  Prepared and managed by Rev. Caleb R. Bassett.
 
-I have created this repository to house a collection of BibTeX files (plain text bibliographies) that are useful for use by pastors and theologians.
+I have created this repository to house a collection of BibTeX files (plain text bibliographies) that are useful for pastors and theologians.
 
 ## How to use
 
